@@ -1,0 +1,20 @@
+1|Cristiano|Ronaldo|7|FORWARD
+2|Lionel|Messi|10|FORWARD
+3|Luis|Suarez|9|FORWARD
+4|Manuel|Neuer|1|GOALKEEPER
+5|Robert|Lewandoski|9|FORWARD
+6|Neymar|Jr.|11|FORWARD
+7|Sergio|Aguero|10|FORWARD
+8|Eden|Hazard|10|MIDFIELDER
+9|Kevin|De Bruyne|17|MIDFIELDER
+10|Mesut|Ozil|11|MIDFIELDER
+11|Gareth|Bale|11|FORWARD
+12|Luka|Modric|19|MIDFIELDER
+13|Toni|Kroos|8|MIDFIELDER
+14|Pierre|Aubameyang|17|FORWARD
+15|Marco|Reus|11|MIDFIELDER
+16|Jerome|Boateng|17|DEFENDER
+17|Sergio|Ramos|4|DEFENDER
+18|David|De Gea|1|GOALKEEPER
+19|David|Silva|21|MIDFIELDER
+20|Paul|Pogba|6|MIDFIELDER

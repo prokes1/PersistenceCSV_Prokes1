@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\NMC\CIT 255\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\bin\Debug\Prokes_SoccerPlayerRater.exe.config
+C:\Users\Joe\Documents\NMC\CIT 255\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\bin\Debug\Prokes_SoccerPlayerRater.exe
+C:\Users\Joe\Documents\NMC\CIT 255\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\bin\Debug\Prokes_SoccerPlayerRater.pdb
+C:\Users\Joe\Documents\NMC\CIT 255\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\obj\Debug\Prokes_SoccerPlayerRater.exe
+C:\Users\Joe\Documents\NMC\CIT 255\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\obj\Debug\Prokes_SoccerPlayerRater.pdb
+C:\Users\Joe\Source\Repos\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\bin\Debug\Prokes_SoccerPlayerRater.exe.config
+C:\Users\Joe\Source\Repos\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\obj\Debug\Prokes_SoccerPlayerRater.exe
+C:\Users\Joe\Source\Repos\Prokes_SoccerPlayerRater\Prokes_SoccerPlayerRater\obj\Debug\Prokes_SoccerPlayerRater.pdb
